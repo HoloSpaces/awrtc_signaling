@@ -5,7 +5,8 @@
     "apps": [
         {
             "name": "HoloSpaces",
-            "path": "/holospaces",
+            "path": "/holospaces"
+	}
 		 {
             "name": "Test",
             "path": "/"
