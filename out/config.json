@@ -1,5 +1,17 @@
 {
 	"log_verbose": true,
+	 "httpConfig":
+    {
+        "port": 12776,
+        "host": "0.0.0.0"
+    },
+    "httpsConfig":
+    {
+        "port": 12777,
+        "host": "0.0.0.0",
+        "ssl_key_file": "ssl.key",
+        "ssl_cert_file": "ssl.crt"
+    },
     "maxPayload": 
         1048576,
     "apps": [
