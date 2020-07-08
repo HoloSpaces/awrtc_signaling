@@ -17,11 +17,13 @@
 	    "apps": [
 		{
 		    "name": "HoloSpaces",
-		    "path": "/holospaces"
+		    "path": "/holospaces",
+			"address_sharing": true
 		},
 		{
 		    "name": "CallApp",
-		    "path": "/callapp"
+		    "path": "/callapp",
+			"address_sharing": true
 		}	
 	    ]
 }
