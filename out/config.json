@@ -15,7 +15,9 @@
     "apps": [
         {
             "name": "HoloSpaces",
-            "path": "/holospaces"
+            "path": "/holospaces",
+	    "address_sharing": true
+		
         }
     ]
 }
