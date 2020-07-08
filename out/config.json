@@ -1,15 +1,5 @@
 {
 	"log_verbose": true,
-    "httpConfig":
-    {
-        "port": 80,
-        "host": "0.0.0.0"
-    },
-    "httpsConfig":
-    {
-        "port": 443,
-        "host": "0.0.0.0"
-    },
     "maxPayload": 
         1048576,
     "apps": [
